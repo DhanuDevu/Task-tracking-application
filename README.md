@@ -1,3 +1,8 @@
+Develop a Task Tracking Application to create, assign, update, and track tasks. Demonstrate
+relationships between users and tasks and use of selectors for derived state (e.g., tasks by
+assignee).
+
+
 task-tracker/
 │
 ├── server/                 # Backend
