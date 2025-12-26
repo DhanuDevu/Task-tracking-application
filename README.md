@@ -1,4 +1,4 @@
-# 📝 Task Tracking Application (Python Full Stack)
+# 📝 Task Tracking Application (Python Full Stack)     
 
 A full-stack **Task Tracking Web Application** built using **Python Flask**, **SQLite**, and **Vanilla JavaScript**.
 This app allows users to create, assign, update, delete, and track tasks with real-time statistics using derived selectors.
