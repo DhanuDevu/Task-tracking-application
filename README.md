@@ -5,7 +5,7 @@ This app allows users to create, assign, update, delete, and track tasks with re
 
 ---
 
-## 🚀 Features
+## 🚀 Features     
 
 * Create and manage users
 * Create, assign, update, and delete tasks
