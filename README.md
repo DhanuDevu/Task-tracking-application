@@ -11,7 +11,7 @@ This app allows users to create, assign, update, delete, and track tasks with re
 * Create, assign, update, and delete tasks       
 * Task status tracking (To-Do, In-Progress, Done)  
 * Task priority support 
-* User–Task relationship (one user → many tasks)
+* User–Task relationship (one user → many tasks)   
 * Search and filter tasks
 * Derived selectors:
 
