@@ -184,6 +184,3 @@ This ensures consistent dependency installation across systems.
 **Dhanu**
 <br>
 Python | Flask | Full-Stack Development
-
-
-Just say the word.
