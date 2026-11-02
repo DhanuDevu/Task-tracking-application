@@ -182,6 +182,7 @@ This ensures consistent dependency installation across systems.
 ## 👨‍💻 Author
 
 **Dhanu**
+<br>
 Python | Flask | Full-Stack Development
 
 
