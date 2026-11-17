@@ -14,7 +14,7 @@ This app allows users to create, assign, update, delete, and track tasks with re
 * User–Task relationship (one user → many tasks)   
 * Search and filter tasks
 * Derived selectors:
-
+   
   * Task count by status
   * Open task count
   * Tasks by user
